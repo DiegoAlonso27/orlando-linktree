@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/orlando-linktree/static/css/main.8647895f.css",
+    "main.js": "/orlando-linktree/static/js/main.388ecfd4.js",
+    "index.html": "/orlando-linktree/index.html",
+    "main.8647895f.css.map": "/orlando-linktree/static/css/main.8647895f.css.map",
+    "main.388ecfd4.js.map": "/orlando-linktree/static/js/main.388ecfd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8647895f.css",
+    "static/js/main.388ecfd4.js"
+  ]
+}
